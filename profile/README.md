@@ -1,4 +1,4 @@
-# [<img src="pic4.png" alt="Nunam" width="400">](https://www.nunam.com)
+# [<img src="https://github.com/Nunam-Energy/.github/raw/main/profile/pic4.png" width="400">](https://www.nunam.com)
 
 We at Nunam, an Indo-Germanic start-up, are focusing on building solutions for a sustainable future where we don't end up with toxic, hazardous e-waste from used li-ion batteries and making energy access universal with our 2nd life energy storage system enabling a circular economy with continuous intelligent monitoring and advanced analytics.
 
@@ -10,12 +10,12 @@ Reach out to us at [saradindu@nunam.com](mailto:saradindu@nunam.com)
 
 ## How does circular battery economy works
 
-<img src="pic1.png" width="500"/>
+<img src="https://github.com/Nunam-Energy/.github/raw/main/profile/pic1.png" width="500"/>
 
 ## How we manage the battery life-cycle
 
-<img src="pic2.png" width="500"/>
+<img src="https://github.com/Nunam-Energy/.github/raw/main/profile/pic2.png" width="500"/>
 
 ## We are supported by some of the leading organization in the world
 
-<img src="pic3.png" width="500"/>
+<img src="https://github.com/Nunam-Energy/.github/raw/main/profile/pic3.png" width="500"/>
