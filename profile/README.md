@@ -10,12 +10,12 @@ Reach out to us at [saradindu@nunam.com](mailto:saradindu@nunam.com)
 
 ## How does circular battery economy works
 
-<img src="pic1.png" alt="Nunam" width="500"/>
+<img src="pic1.png" width="500"/>
 
 ## How we manage the battery life-cycle
 
-<img src="pic2.png" alt="Nunam" width="500"/>
+<img src="pic2.png" width="500"/>
 
 ## We are supported by some of the leading organization in the world
 
-<img src="pic3.png" alt="Nunam" width="500"/>
+<img src="pic3.png" width="500"/>
